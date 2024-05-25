@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "Django/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89fbe4ad5d3179b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning/Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
+                "file": "Machine learning/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "Machine learning/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md"
+                "file": "Machine learning/Practice.md"
               }
             }
           }
@@ -146,9 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa57d1f30533cf1",
+  "active": "26707df84b2ec043",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create a link.md"
+    "Django/Intro.md",
+    "Machine learning/Practice.md",
+    "create a link.md",
+    "Machine learning",
+    "Django",
+    "Welcome.md"
   ]
 }
